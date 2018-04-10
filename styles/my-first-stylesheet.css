@@ -4,9 +4,8 @@
 /*html { font-size: 16px; }*/
 
 /* TO DO: fix image */
-/*
 img {
-  width: 25%
+  width: 50%
 }
 
 
@@ -31,7 +30,6 @@ img {
 .document-history {
   background-color: yellow;
 }
-*/
 
 /* nested selector -- selects <p> inside .document-history */
 /*
