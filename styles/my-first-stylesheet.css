@@ -1,9 +1,14 @@
 /* 16px == 1rem */
-html { font-size: 16px; }
 
+
+/*html { font-size: 16px; }*/
+
+/* TO DO: fix image */
+/*
 img {
   width: 25%
 }
+
 
 .amendment-title {
   color: green;
@@ -26,8 +31,10 @@ img {
 .document-history {
   background-color: yellow;
 }
+*/
 
 /* nested selector -- selects <p> inside .document-history */
+/*
 .document-history p {
   width: 50%;
 }
@@ -43,3 +50,4 @@ img {
 .highlight {
   background-color: salmon;
 }
+*/
